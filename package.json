@@ -1,0 +1,25 @@
+{
+  "name": "weapp-adapter-phaser",
+  "version": "0.0.1",
+  "description": "微信小程序游戏 phaser3 适配",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/weapp-adapter-phaser.git"
+  },
+  "keywords": [
+    "微信小游戏",
+    "微信小程序游戏",
+    "phaser",
+    "phaser3"
+  ],
+  "author": "liurongqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liurongqing/weapp-adapter-phaser/issues"
+  },
+  "homepage": "https://github.com/liurongqing/weapp-adapter-phaser#readme"
+}
